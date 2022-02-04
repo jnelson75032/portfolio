@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my journey', },
+  { year: 2021, text: 'Completed Freemote Shopify Developer Bootcamp', },
+  { year: 2021, text: 'Founded E-Commerce Development, LLC', },
+  { year: 2021, text: 'Started NuCamp back-end Developer Bootcamp', },
+  { year: 2022, text: 'Graduated from Nucamp back-end Developer Bootcamp', },
 ];
